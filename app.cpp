@@ -387,7 +387,7 @@ void signUp()
 void signIn()
 {
   string uN, uP;
-  cout << "\n\t\tEnter user name       :";
+  cout << "\n\t\tEnter user name        :";
   cin >> uN;
   cout << "\t\tEnter user Password   :";
   cin >> uP;
